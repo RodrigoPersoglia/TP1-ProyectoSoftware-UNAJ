@@ -1,0 +1,469 @@
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\TP1-ORM.exe
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\TP1-ORM.deps.json
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\TP1-ORM.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\TP1-ORM.pdb
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\refint\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.pdb
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\ref\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\TP1-ORM.exe
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\TP1-ORM.deps.json
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\TP1-ORM.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\TP1-ORM.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Data.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\Data.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\refint\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\TP1-ORM.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\TP1-ORM\obj\Debug\net6.0\ref\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\TP1-ORM.exe
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\TP1-ORM.deps.json
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\TP1-ORM.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\TP1-ORM.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\refint\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\TP1-ORM.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\TP1-ORM\obj\Debug\net6.0\ref\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.exe
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.deps.json
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\refint\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\ref\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.exe
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.deps.json
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Data.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Data.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\refint\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\ref\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.exe
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.deps.json
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\TP1-ORM.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\refint\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\TP1-ORM.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\obj\Debug\net6.0\ref\TP1-ORM.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\AccesData.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Application.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Domain.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Presentation.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\AccesData.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Presentation.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\TP1-ORM\bin\Debug\net6.0\Application.pdb
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.exe
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.deps.json
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\TP1-ORM.pdb
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\AccesData.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Application.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Domain.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Presentation.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\AccesData.pdb
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Presentation.pdb
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Domain.pdb
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\bin\Debug\net6.0\Application.pdb
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\refint\TP1-ORM.dll
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.pdb
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\TP1-ORM.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ProyectoSoftware-UNAJ-master\TP1-ORM\obj\Debug\net6.0\ref\TP1-ORM.dll

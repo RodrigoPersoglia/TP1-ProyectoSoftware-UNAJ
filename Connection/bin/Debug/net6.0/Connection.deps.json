@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Connection/1.0.0": {
+        "dependencies": {
+          "StaticMethods": "1.0.0"
+        },
+        "runtime": {
+          "Connection.dll": {}
+        }
+      },
+      "StaticMethods/1.0.0": {
+        "runtime": {
+          "StaticMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StaticMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

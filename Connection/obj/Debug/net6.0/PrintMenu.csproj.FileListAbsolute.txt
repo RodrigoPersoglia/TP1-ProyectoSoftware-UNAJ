@@ -1,0 +1,126 @@
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\PrintMenu.deps.json
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\refint\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\ref\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\PrintMenu.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\PrintMenu.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\PrintMenu.deps.json
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\PrintMenu.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\Data.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\bin\Debug\net6.0\Data.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\refint\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\PrintMenu.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\Connection\obj\Debug\net6.0\ref\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\PrintMenu.deps.json
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\PrintMenu.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\refint\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\PrintMenu.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\Connection\obj\Debug\net6.0\ref\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\PrintMenu.deps.json
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\PrintMenu.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\refint\PrintMenu.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\Connection\obj\Debug\net6.0\ref\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\PrintMenu.deps.json
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\PrintMenu.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\Data.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\bin\Debug\net6.0\Data.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\refint\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\PrintMenu.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\Connection\obj\Debug\net6.0\ref\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\PrintMenu.deps.json
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\PrintMenu.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\PrintMenu.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\Data.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\bin\Debug\net6.0\Data.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\refint\PrintMenu.dll
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.pdb
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\PrintMenu.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\TP1-ORM-Persoglia_Rodrigo\Connection\obj\Debug\net6.0\ref\PrintMenu.dll

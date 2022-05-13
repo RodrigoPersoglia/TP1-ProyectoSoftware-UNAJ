@@ -1,0 +1,85 @@
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.deps.json
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\refint\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM\ConnectionDataBase\obj\Debug\net6.0\ref\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.deps.json
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\bin\Debug\net6.0\Data.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\bin\Debug\net6.0\Data.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\refint\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\tp\TP1-ProyectoSoftware-UNAJ\ConnectionDataBase\obj\Debug\net6.0\ref\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\refint\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.deps.json
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM - copia\ConnectionDataBase\obj\Debug\net6.0\ref\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.deps.json
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.runtimeconfig.json
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\bin\Debug\net6.0\Data.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\bin\Debug\net6.0\Data.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CopyComplete
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\refint\ConnectionDataBase.dll
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP1-ORM - Persoglia_Rodrigo\ConnectionDataBase\obj\Debug\net6.0\ref\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.deps.json
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\bin\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\bin\Debug\net6.0\Data.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\bin\Debug\net6.0\Data.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\refint\ConnectionDataBase.dll
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.pdb
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ConnectionDataBase.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\TP1-ProyectoSoftware-UNAJ-master\ConnectionDataBase\obj\Debug\net6.0\ref\ConnectionDataBase.dll

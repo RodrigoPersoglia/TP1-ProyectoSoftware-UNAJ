@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\Connection.deps.json
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\Connection.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\Connection.pdb
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\Connection.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\Connection.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\Connection.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\Connection.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\Connection.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\refint\Connection.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\Connection.pdb
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\ref\Connection.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\StaticMethods.dll
+C:\Users\usuario\Desktop\TP1-ORM\Connection\bin\Debug\net6.0\StaticMethods.pdb
+C:\Users\usuario\Desktop\TP1-ORM\Connection\obj\Debug\net6.0\Connection.csproj.CopyComplete
